@@ -60,7 +60,7 @@ function FormRecipe() {
     };
     return (
         <div className='text-center mt-3 mb-3 p-3 rounded-2 shadow bg-white'>
-            <h1>Recipe Form</h1>
+            <h1>Recipe Form 22222</h1>
             <form onSubmit={onSubmitTitle} className='text-center mt-4'>
                 <Form.Group as={Row} className='text-center'>
                     <Col xs="7" >
